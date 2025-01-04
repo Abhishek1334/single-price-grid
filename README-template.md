@@ -23,9 +23,9 @@ Users should be able to:
 - See a hover state on desktop for the Sign Up call-to-action
 
 ### Screenshot
- 
-![image](https://github.com/user-attachments/assets/a1cfa124-e01b-4e42-909d-4408de3f3476)
-![image](https://github.com/user-attachments/assets/0a4bb726-1ee8-4588-b24d-564106656191)
+
+![image](https://github.com/user-attachments/assets/a1cfa124-e01b-4e42-909d-4408de3f3476) ![image](https://github.com/user-attachments/assets/0a4bb726-1ee8-4588-b24d-564106656191)
+
 
 ### Links
 
